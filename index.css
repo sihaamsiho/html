@@ -1,0 +1,12 @@
+   
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(228, 97, 10);
+    border: 1px solid black;
+}
+#parent{
+   display: flex;
+   flex-wrap:wrap;
+   flex-direction: baseline;
+}
